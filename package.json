@@ -1,0 +1,8 @@
+{
+  "name": "horse-prometheus-metrics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/solussaude/horse-prometheus-metrics",
+  "license": "MIT",
+  "packageManager": "yarn@4.3.1"
+}
