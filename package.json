@@ -4,5 +4,5 @@
   "main": "index.js",
   "repository": "https://github.com/solussaude/horse-prometheus-metrics",
   "license": "MIT",
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.13.0"
 }
